@@ -1,0 +1,7 @@
+<a href="https://www.flaticon.com/free-icons/spaceship" title="spaceship icons">Spaceship icons created by Freepik - Flaticon</a> (user1)
+
+<a href="https://www.flaticon.com/free-icons/alien" title="alien icons">Alien icons created by Freepik - Flaticon</a> (enemy1)
+
+<a href="https://www.flaticon.com/free-icons/science-fiction" title="science-fiction icons">Science-fiction icons created by Freepik - Flaticon</a> (enemy2)
+
+Image by <a href="https://pixabay.com/users/openclipart-vectors-30363/?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=161536">OpenClipart-Vectors</a> from <a href="https://pixabay.com//?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=161536">Pixabay</a> (deck of cards)
