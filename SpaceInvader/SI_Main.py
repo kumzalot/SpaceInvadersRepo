@@ -1,3 +1,7 @@
+#GAME_OVER AUDIO
+#HIGHEST SCORE TEXT
+#REPLAYABILITY
+
 import pygame as py
 from pygame import mixer
 
